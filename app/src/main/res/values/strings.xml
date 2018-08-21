@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LiteBox</string>
+    <string name="network_unavailable">Интернет недоступен</string>
+    <string name="server_error">Ошибка запроса к серверу</string>
+    <string name="no_input_text">Введите запрос</string>
+</resources>
